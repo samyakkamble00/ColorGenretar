@@ -27,8 +27,6 @@ body {
     text-align: center;
 }
   
-  
-/* CSS property for slider */
 input[type="range"] {
     -webkit-appearance: none;
     height: 10px;
@@ -37,7 +35,6 @@ input[type="range"] {
     outline: none;
 }
   
-/* CSS property for slider thumb */
 input[type="range"]::-webkit-slider-thumb {
     -webkit-appearance: none;
     height: 25px;
